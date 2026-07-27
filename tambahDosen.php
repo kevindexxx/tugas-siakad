@@ -56,7 +56,7 @@ include 'htmlBuka.php';
         </div>
     <?php endif; ?>
 
-    <form action="/Pertemuan_11/tambahDosen.php" method="POST" enctype="multipart/form-data">
+    <form action="tambahDosen.php" method="POST" enctype="multipart/form-data">
         <div class="mb-3">
             <label for="nip" class="form-label">NIP</label>
             <input type="text" id="nip" name="nip" class="form-control" required>

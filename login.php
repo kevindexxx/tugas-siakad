@@ -1,7 +1,7 @@
 <?php
 session_start();
 $host = 'localhost'; // Host database
-$db = 'dbkuliah'; // Nama database
+$db = 'db_kampus'; // Nama database
 $user = 'root'; // Username database
 $pass = ''; // Password database
 

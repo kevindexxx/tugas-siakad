@@ -38,7 +38,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/Pertemuan_11./home.php">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="home.php">
                 <img src="" alt="">
                 <div class="sidebar-brand-text mx-3">SIM</div>
             </a>
@@ -53,19 +53,19 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a href="/Pertemuan_11/mahasiswa.php" class="nav-link" >
+                <a href="mahasiswa.php" class="nav-link" >
                     <img src="icons/student.png" width="30px" alt="Mahasiswa"> Mahasiswa
                 </a>
-                <a href="/Pertemuan_11/dosen.php" class="nav-link" >
-                    <img src="icons/teacher.png" width="30px" alt="Mahasiswa"> Dosen
+                <a href="dosen.php" class="nav-link" >
+                <img src="icons/teacher.png" width="30px" alt="Mahasiswa"> Dosen
                 </a>
-                <a href="/Pertemuan_11/mataKuliah.php" class="nav-link" >
+                <a href="mataKuliah.php" class="nav-link" >
                     <img src="icons/subjects.png" width="30px" alt="Mahasiswa"> Mata kuliah
                 </a>
-                <a href="/Pertemuan_11/laporan.php" class="nav-link" >
+                <a href="laporan.php" class="nav-link" >
                     <img src="icons/seo-report.png" width="30px" alt="Mahasiswa"> laporan
                 </a>
-                <a href="/Pertemuan_11/grafik.php"class="nav-link" >
+                <a href="grafik.php"class="nav-link" >
                     <img src="icons/chart.png" width="30px" alt="Mahasiswa"> grafik
                 </a>
 
